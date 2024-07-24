@@ -1,6 +1,12 @@
 import csv
 import sqlite3
 
+# 1. change the code
+# 2. git add .
+# 3. git commit -m ""
+# 4. git push origin
+# git config --global user.name "Aayushma Mehta"
+# git config --global user.email "aayushmamehta@gmail.com"
 
 
 def create_connection():
